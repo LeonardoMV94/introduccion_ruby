@@ -1,0 +1,1 @@
+[{:nombre=>"Leonardo", :password=>"Z1tfE40xa5"}, {:nombre=>"Rene", :password=>"ZBxhUKAPFv64bAhehjfk"}]
